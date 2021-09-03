@@ -15,14 +15,6 @@ const CustomDropDown = () => {
     "bike",
     "plane",
     "truck",
-    "car",
-    "bike",
-    "plane",
-    "truck",
-    "car",
-    "bike",
-    "plane",
-    "truck",
   ];
 
   function handleChange(e) {
